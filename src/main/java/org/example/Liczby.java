@@ -8,7 +8,7 @@ import java.util.List;
 public class Liczby {
 
     private String plik;
-    private List<String> wiersz;
+    List<String> wiersz;
 
     public Liczby(String plik) {
         this.plik = plik;
